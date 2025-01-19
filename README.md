@@ -1,6 +1,5 @@
 ![Banner](https://github.com/Yash-Sonone64/Yash-Sonone64/blob/main/Yash%20Sonone.jpg)
 
-
 🎯 **Data Analyst | 💡 Data Enthusiast | 🚀 Data Scientist**  
 
 Welcome to my GitHub profile! I’m passionate about turning data into actionable insights using tools like Python, SQL, Power BI, and Excel. My focus is on creating impactful dashboards, delivering data-driven solutions, and helping organizations make informed decisions.
@@ -27,32 +26,32 @@ Welcome to my GitHub profile! I’m passionate about turning data into actionabl
 ## 🌟 **Featured Projects**
 
 ### 📊 **[Data Manipulation And Reporting With Power-Bi](https://github.com/Yash-Sonone64/Data-Manpiulation-And-Reporting-With-Power-BI)**  
-🔸 Visualized a year-over-year 15% decrease in overall casualties and accidents, highlighting improved road safety measures.
-🔸 Identified that 60% of serious accidents occur in rural areas under poor lighting conditions, emphasizing the need for enhanced infrastructure. 
+🔸 Visualized a year-over-year 15% decrease in overall casualties and accidents, highlighting improved road safety measures.  
+🔸 Identified that 60% of serious accidents occur in rural areas under poor lighting conditions, emphasizing the need for enhanced infrastructure.  
 
 ---
 
 ### 📈 **[Sales Data Analysis With Excel](https://github.com/Yash-Sonone64/Sales-Data-Analysis-With-Excel)**  
-🔸 Analyzed correlation between RevenueDiscount and Units sold, finding a positive correlation of 0.67, supporting the hypothesis.
-🔸 Compared mean Units sold for high-discount products (42) vs. low-discount products (25), revealing a 68% increase. 
+🔸 Analyzed correlation between RevenueDiscount and Units sold, finding a positive correlation of 0.67, supporting the hypothesis.  
+🔸 Compared mean Units sold for high-discount products (42) vs. low-discount products (25), revealing a 68% increase.  
 
 ---
 
 ### 🔍 **[HealthCare Provider Analytics Dashboard](https://github.com/Yash-Sonone64/Healthcare-Analytics)**  
-🔸 Analyzed financial data to reveal Cardiology as the top-performing department, contributing 25.2% ($846,925) of total billing.
-🔸 Highlighted high-cost procedures, including X-rays ($1.05M) and CT scans ($805K), to inform cost management strategies.
+🔸 Analyzed financial data to reveal Cardiology as the top-performing department, contributing 25.2% ($846,925) of total billing.  
+🔸 Highlighted high-cost procedures, including X-rays ($1.05M) and CT scans ($805K), to inform cost management strategies.  
 
 ---
 
 ### 🍴 **[Zomato Data Analysis](https://github.com/Yash-Sonone64/Zomato-Data-Analysis-SQL-)**  
-🔸 Analyzed 9,551 restaurants using advanced SQL, uncovering service trends  
-🔸 Found 90% of restaurants are in India, with delivery options at 25.66%
+🔸 Analyzed 9,551 restaurants using advanced SQL, uncovering service trends.  
+🔸 Found 90% of restaurants are in India, with delivery options at 25.66%.  
 
 ---
 
 ## 🌐 **Connect with Me**  
 
- <span style="display: flex; gap: 100px;">
+<span style="display: flex; gap: 100px;">
     <a href="mailto:yashsonone64@gmail.com" target="_blank">
       <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="30" height="30" />
     </a>
@@ -65,7 +64,7 @@ Welcome to my GitHub profile! I’m passionate about turning data into actionabl
     <a href="https://drive.google.com/file/d/1qFvEf_0eOvLF4e836Yl8xJfzuCX9tKCG/view?usp=drive_link" target="_blank">
       <img src="https://img.icons8.com/color/48/000000/resume.png" alt="Resume" width="30" height="30" />
     </a>
-  </span>
+</span>
 
 ---
 
