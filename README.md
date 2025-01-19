@@ -13,17 +13,17 @@ Join me on this journey as I explore, analyze, and craft compelling data narrati
 ## 🧰 Skills & Tools  
 
 ### ⚙️ Programming Languages  
-- **Python** ![Python logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg): Proficient in libraries like `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, and `Scikit-learn` for data manipulation, visualization, and machine learning.  
-- **SQL** ![SQL logo](https://upload.wikimedia.org/wikipedia/commons/0/01/MySQL_Logo.svg): Expertise in `MySQL` with skills in advanced queries, joins, window functions, and subqueries.  
+- ![Python logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) **Python**: Proficient in libraries like `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, and `Scikit-learn` for data manipulation, visualization, and machine learning.  
+- ![SQL logo](https://upload.wikimedia.org/wikipedia/commons/0/01/MySQL_Logo.svg) **SQL**: Expertise in `MySQL` with skills in advanced queries, joins, window functions, and subqueries.  
 
 ### 🎨 Data Visualization  
-- **Power BI** ![Power BI logo](https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg): Skilled in `DAX`, `Power Query`, `ETL` processes, and data modeling to design interactive dashboards.  
-- **Excel** ![Excel logo](https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Excel_Logo_2021.svg): Proficient in pivot tables/charts, lookup functions, and creating advanced formulas for in-depth analysis.  
+- ![Power BI logo](https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg) **Power BI**: Skilled in `DAX`, `Power Query`, `ETL` processes, and data modeling to design interactive dashboards.  
+- ![Excel logo](https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Excel_Logo_2021.svg) **Excel**: Proficient in pivot tables/charts, lookup functions, and creating advanced formulas for in-depth analysis.  
 
 ### 📊 Libraries & Tools  
-- **Pandas** ![Pandas logo](https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg): Hands-on experience in data cleaning and transformation for structured datasets.  
-- **Matplotlib** ![Matplotlib logo](https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg): Adept at creating detailed data visualizations and conducting statistical analysis.  
-- **Seaborn** ![Seaborn logo](https://seaborn.pydata.org/_static/seaborn-logo-wide.svg): Specializes in crafting advanced visualizations for exploratory data analysis.  
+- ![Pandas logo](https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg) **Pandas**: Hands-on experience in data cleaning and transformation for structured datasets.  
+- ![Matplotlib logo](https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg) **Matplotlib**: Adept at creating detailed data visualizations and conducting statistical analysis.  
+- ![Seaborn logo](https://seaborn.pydata.org/_static/seaborn-logo-wide.svg) **Seaborn**: Specializes in crafting advanced visualizations for exploratory data analysis.  
 
 ---
 
@@ -59,4 +59,5 @@ Here are some of the projects I've worked on:
 
 ## ✨ Quote  
 *"Transforming raw data into actionable insights and creating opportunities through analysis!"*  
+
 
