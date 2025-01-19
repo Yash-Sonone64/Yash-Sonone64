@@ -1,3 +1,6 @@
+![Banner](https://github.com/Yash-Sonone64/Yash-Sonone64/blob/main/Yash%20Sonone.jpg)
+
+
 🎯 **Data Analyst | 💡 Data Enthusiast | 🚀 Data Scientist**  
 
 Welcome to my GitHub profile! I’m passionate about turning data into actionable insights using tools like Python, SQL, Power BI, and Excel. My focus is on creating impactful dashboards, delivering data-driven solutions, and helping organizations make informed decisions.
