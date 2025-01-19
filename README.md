@@ -27,20 +27,20 @@ Welcome to my GitHub profile! I’m passionate about turning data into actionabl
 ## 🌟 **Featured Projects**
 
 ### 📊 **[Data Manipulation And Reporting With Power-Bi](https://github.com/Yash-Sonone64/Data-Manpiulation-And-Reporting-With-Power-BI)**  
-🔸 Designed a MySQL system to analyze user activity across 13 tables  
-🔸 Discovered 8% of users contributed 5+ posts; identified top-liked posts  
+🔸 Visualized a year-over-year 15% decrease in overall casualties and accidents, highlighting improved road safety measures.
+🔸 Identified that 60% of serious accidents occur in rural areas under poor lighting conditions, emphasizing the need for enhanced infrastructure. 
 
 ---
 
 ### 📈 **[Sales Data Analysis With Excel](https://github.com/Yash-Sonone64/Sales-Data-Analysis-With-Excel)**  
-🔸 Conducted Excel-based demographic analysis, revealing 64% of orders from female customers  
-🔸 Identified March as the peak sales month; optimized delivery channel insights  
+🔸 Analyzed correlation between RevenueDiscount and Units sold, finding a positive correlation of 0.67, supporting the hypothesis.
+🔸 Compared mean Units sold for high-discount products (42) vs. low-discount products (25), revealing a 68% increase. 
 
 ---
 
 ### 🔍 **[HealthCare Provider Analytics Dashboard](https://github.com/Yash-Sonone64/Healthcare-Analytics)**  
-🔸 Built an interactive Power BI dashboard for real-time sales insights  
-🔸 Analyzed quarterly trends and visualized region-wise performance  
+🔸 Analyzed financial data to reveal Cardiology as the top-performing department, contributing 25.2% ($846,925) of total billing.
+🔸 Highlighted high-cost procedures, including X-rays ($1.05M) and CT scans ($805K), to inform cost management strategies.
 
 ---
 
