@@ -1,6 +1,6 @@
-🎯 **Data Analyst | 💡 Data Enthusiast | 🚀 Exploring Generative AI**
+🎯 **Data Analyst | 💡 Data Enthusiast | 🚀 Data Scientist**
 
-Welcome to my GitHub profile! I’m passionate about transforming raw data into actionable insights using tools like Python, SQL, Power BI, and Excel. My focus is on creating compelling data stories, insightful dashboards, and efficient analytical solutions.
+Welcome to my GitHub profile! I’m a data enthusiast driven by the power of numbers and patterns. By leveraging tools like Python, SQL, Power BI, and Excel, I bring data to life, creating interactive dashboards that reveal the hidden stories within the data, data-driven insights that help businesses make informed decisions, and analytical solutions that streamline processes and drive efficiency. Explore my projects as I continue to enhance my skills and contribute to the world of data analytics!
 
 ---
 
