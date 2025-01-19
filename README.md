@@ -26,25 +26,25 @@ Welcome to my GitHub profile! I’m passionate about turning data into actionabl
 
 ## 🌟 **Featured Projects**
 
-### 📊 **[Social Media Engagement Analysis](https://github.com/gauravv2110/social-media-analysis)**  
+### 📊 **[Data Manipulation And Reporting With Power-Bi](https://github.com/Yash-Sonone64/Data-Manpiulation-And-Reporting-With-Power-BI)**  
 🔸 Designed a MySQL system to analyze user activity across 13 tables  
 🔸 Discovered 8% of users contributed 5+ posts; identified top-liked posts  
 
 ---
 
-### 📈 **[Vrinda Store Sales Analysis](https://github.com/gauravv2110/vrinda-store-analysis)**  
+### 📈 **[Sales Data Analysis With Excel](https://github.com/Yash-Sonone64/Sales-Data-Analysis-With-Excel)**  
 🔸 Conducted Excel-based demographic analysis, revealing 64% of orders from female customers  
 🔸 Identified March as the peak sales month; optimized delivery channel insights  
 
 ---
 
-### 🔍 **[Myntra Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzUxM2ZkNjQtMzJhMC00NjcyLWIxZDEtMDU5MTJlYzQ5ZTY3IiwidCI6Ijg1MGY0YTAxLTI0OWMtNDRlNC04MDc0LTZlZGYyZDgxZTA2ZSJ9)**  
+### 🔍 **[HealthCare Provider Analytics Dashboard](https://github.com/Yash-Sonone64/Healthcare-Analytics)**  
 🔸 Built an interactive Power BI dashboard for real-time sales insights  
 🔸 Analyzed quarterly trends and visualized region-wise performance  
 
 ---
 
-### 🍴 **[Zomato Data Analysis](https://github.com/gauravv2110/Zomato-Data-Analysis)**  
+### 🍴 **[Zomato Data Analysis](https://github.com/Yash-Sonone64/Zomato-Data-Analysis-SQL-)**  
 🔸 Analyzed 9,551 restaurants using advanced SQL, uncovering service trends  
 🔸 Found 90% of restaurants are in India, with delivery options at 25.66%
 
