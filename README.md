@@ -22,20 +22,20 @@ Welcome to my GitHub profile! I’m a data enthusiast driven by the power of num
 
 ## 🌟 **Featured Projects**  
 ### 📊 **Social Media Engagement Analysis**
-- 🔸 Designed a MySQL system to analyze user activity across 13 tables
-- 🔸 Discovered 8% of users contributed 5+ posts; identified top-liked posts
+ 🔸 Designed a MySQL system to analyze user activity across 13 tables
+ 🔸 Discovered 8% of users contributed 5+ posts; identified top-liked posts
 
 ### 📈 **Vrinda Store Sales Analysis**
-- 🔸 Conducted Excel-based demographic analysis, revealing 64% of orders from female customers
-- 🔸 Identified March as the peak sales month; optimized delivery channel insights
+ 🔸 Conducted Excel-based demographic analysis, revealing 64% of orders from female customers
+ 🔸 Identified March as the peak sales month; optimized delivery channel insights
 
 ### 🔍 **Myntra Sales Dashboard**
-- 🔸 Built an interactive Power BI dashboard for real-time sales insights
-- 🔸 Analyzed quarterly trends and visualized region-wise performance
+ 🔸 Built an interactive Power BI dashboard for real-time sales insights
+ 🔸 Analyzed quarterly trends and visualized region-wise performance
 
 ### 🍴 **Zomato Data Analysis**
-- 🔸 Analyzed 9,551 restaurants using advanced SQL, uncovering service trends
-- 🔸 Found 90% of restaurants are in India, with delivery options at 25.66%
+ 🔸 Analyzed 9,551 restaurants using advanced SQL, uncovering service trends
+ 🔸 Found 90% of restaurants are in India, with delivery options at 25.66%
 
 ---
 
