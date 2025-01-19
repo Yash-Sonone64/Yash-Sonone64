@@ -1,53 +1,73 @@
-🎯 **Data Analyst | 💡 Data Enthusiast | 🚀 Data Scientist**
+![Profile Image](https://media.licdn.com/dms/image/v2/D5616AQG7hnwRWZC74g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731608320750?e=1737590400&v=beta&t=C9SFhBfwKsoA5s2nuqVPEDd0ZqOLufpqpbPmN8iHhVI)
 
-Welcome to my GitHub profile! I’m a data enthusiast driven by the power of numbers and patterns. By leveraging tools like Python, SQL, Power BI, and Excel, I bring data to life, creating interactive dashboards that reveal the hidden stories within the data, data-driven insights that help businesses make informed decisions, and analytical solutions that streamline processes and drive efficiency. Explore my projects as I continue to enhance my skills and contribute to the world of data analytics!
+ 
+🎯 **Data Analyst | 💡 Data Enthusiast | 🚀 Data Scientist**  
+
+Welcome to my GitHub profile! I’m passionate about turning data into actionable insights using tools like Python, SQL, Power BI, and Excel. My focus is on creating impactful dashboards, delivering data-driven solutions, and helping organizations make informed decisions.
 
 ---
 
-## 🧰 Skills & Tools  
+## 🧰 **Skills & Tools**
+
 ### ⚙️ **Programming Languages**
-- **Python**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
-- **MySQL**: Advanced Queries, Joins, Window Functions, Subqueries
+- **<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30" /> Python:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
+- **<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30" /> SQL:** Advanced Queries, Joins, Window Functions, Subqueries  
 
 ### 🎨 **Data Visualization**
-- **Power BI**: DAX, Power Query, ETL Processes, Data Modeling
-- **Excel**: Pivot Tables/Charts, Lookup Functions, Advanced Formulas
+- **<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="30" height="30" /> Power BI:** DAX, Power Query, ETL Processes, Data Modeling  
+- **<img src="https://img.icons8.com/color/48/null/microsoft-excel-2019--v1.png" alt="Excel" width="30" height="30" /> Excel:** Pivot Tables/Charts, Lookup Functions, Advanced Formulas  
 
 ### 📊 **Libraries & Tools**
-- **Pandas**: Data Cleaning, Data Transformation
-- **Matplotlib**: Data Visualization, Statistical Analysis
-- **Seaborn**: Advanced Visualization
+- **<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="30" height="30" /> Pandas:** Data Cleaning, Data Transformation  
+- **<img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="30" height="30" /> Matplotlib:** Data Visualization, Statistical Analysis  
+- **<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="60" height="20" /> Seaborn:** Advanced Visualization  
 
 ---
 
-## 🌟 **Featured Projects**  
-### 📊 **Social Media Engagement Analysis**
- 🔸 Designed a MySQL system to analyze user activity across 13 tables
- 🔸 Discovered 8% of users contributed 5+ posts; identified top-liked posts
+## 🌟 **Featured Projects**
 
-### 📈 **Vrinda Store Sales Analysis**
- 🔸 Conducted Excel-based demographic analysis, revealing 64% of orders from female customers
- 🔸 Identified March as the peak sales month; optimized delivery channel insights
-
-### 🔍 **Myntra Sales Dashboard**
- 🔸 Built an interactive Power BI dashboard for real-time sales insights
- 🔸 Analyzed quarterly trends and visualized region-wise performance
-
-### 🍴 **Zomato Data Analysis**
- 🔸 Analyzed 9,551 restaurants using advanced SQL, uncovering service trends
- 🔸 Found 90% of restaurants are in India, with delivery options at 25.66%
+### 📊 **[Social Media Engagement Analysis](https://github.com/gauravv2110/social-media-analysis)**  
+🔸 Designed a MySQL system to analyze user activity across 13 tables  
+🔸 Discovered 8% of users contributed 5+ posts; identified top-liked posts  
 
 ---
 
-## 🌐 **Connect with Me**
-- 📧 [Email](yashsonone64@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/yash-sonone64)
-- 💻 [GitHub](#)
-- 📄 [Resume](#)
+### 📈 **[Vrinda Store Sales Analysis](https://github.com/gauravv2110/vrinda-store-analysis)**  
+🔸 Conducted Excel-based demographic analysis, revealing 64% of orders from female customers  
+🔸 Identified March as the peak sales month; optimized delivery channel insights  
 
 ---
 
-## ✨ **Motto**  
-"Empowering decisions through data!"
- 📌 **Fun Fact**  
-"Despite mastering Python, SQL, and Power BI, I still spend more time crafting README files than signing job offers!" 🚀
+### 🔍 **[Myntra Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzUxM2ZkNjQtMzJhMC00NjcyLWIxZDEtMDU5MTJlYzQ5ZTY3IiwidCI6Ijg1MGY0YTAxLTI0OWMtNDRlNC04MDc0LTZlZGYyZDgxZTA2ZSJ9)**  
+🔸 Built an interactive Power BI dashboard for real-time sales insights  
+🔸 Analyzed quarterly trends and visualized region-wise performance  
+
+---
+
+### 🍴 **[Zomato Data Analysis](https://github.com/gauravv2110/Zomato-Data-Analysis)**  
+🔸 Analyzed 9,551 restaurants using advanced SQL, uncovering service trends  
+🔸 Found 90% of restaurants are in India, with delivery options at 25.66%
+
+---
+
+## 🌐 **Connect with Me**  
+
+ <span style="display: flex; gap: 100px;">
+    <a href="mailto:yashsonone64@gmail.com" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="30" height="30" />
+    </a>
+    <a href="https://www.linkedin.com/in/yash-sonone64" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+    </a>
+    <a href="https://github.com/Yash-Sonone64" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/>
+    </a>
+    <a href="https://drive.google.com/file/d/1qFvEf_0eOvLF4e836Yl8xJfzuCX9tKCG/view?usp=drive_link" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/resume.png" alt="Resume" width="30" height="30" />
+    </a>
+  </span>
+
+---
+
+**✨ Motto:** *"Empowering decisions through data!"*  
+**📌 Fun Fact:**  *"Despite mastering Python, SQL, and Power BI, I still spend more time crafting README files than signing job offers!"* 🚀  
