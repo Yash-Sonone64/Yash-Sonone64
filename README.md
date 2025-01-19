@@ -1,6 +1,3 @@
-![Profile Image](https://media.licdn.com/dms/image/v2/D5616AQG7hnwRWZC74g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731608320750?e=1737590400&v=beta&t=C9SFhBfwKsoA5s2nuqVPEDd0ZqOLufpqpbPmN8iHhVI)
-
- 
 🎯 **Data Analyst | 💡 Data Enthusiast | 🚀 Data Scientist**  
 
 Welcome to my GitHub profile! I’m passionate about turning data into actionable insights using tools like Python, SQL, Power BI, and Excel. My focus is on creating impactful dashboards, delivering data-driven solutions, and helping organizations make informed decisions.
