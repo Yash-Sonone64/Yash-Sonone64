@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I’m a data enthusiast driven by the power of num
 
 ## 🌐 **Connect with Me**
 - 📧 Email
-- 💼 [LinkedIn](#)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yash-sonone64)
 - 💻 [GitHub](#)
 - 📄 [Resume](#)
 
