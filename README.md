@@ -1,63 +1,54 @@
-# Welcome to My GitHub Profile! 👋  
+🎯 **Data Analyst | 💡 Data Enthusiast | 🚀 Exploring Generative AI**
 
-I'm passionate about uncovering insights and turning raw data into meaningful stories. With tools like Python, SQL, Power BI, and Excel, I strive to create:  
-
-- 📊 **Engaging Dashboards**: Transforming complex data into intuitive visualizations.  
-- 📈 **Actionable Insights**: Helping organizations make data-driven decisions.  
-- 🛠️ **Efficient Solutions**: Developing scalable and impactful analytics workflows.  
-
-Join me on this journey as I explore, analyze, and craft compelling data narratives. Let's turn data into opportunity!  
+Welcome to my GitHub profile! I’m passionate about transforming raw data into actionable insights using tools like Python, SQL, Power BI, and Excel. My focus is on creating compelling data stories, insightful dashboards, and efficient analytical solutions.
 
 ---
 
 ## 🧰 Skills & Tools  
+### ⚙️ **Programming Languages**
+- **Python**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+- **MySQL**: Advanced Queries, Joins, Window Functions, Subqueries
 
-### ⚙️ Programming Languages  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20" height="20"/> **Python**: Proficient in libraries like `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, and `Scikit-learn` for data manipulation, visualization, and machine learning.  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/MySQL_Logo.svg" width="20" height="20"/> **SQL**: Expertise in `MySQL` with skills in advanced queries, joins, window functions, and subqueries.  
+### 🎨 **Data Visualization**
+- **Power BI**: DAX, Power Query, ETL Processes, Data Modeling
+- **Excel**: Pivot Tables/Charts, Lookup Functions, Advanced Formulas
 
-### 🎨 Data Visualization  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" width="20" height="20"/> **Power BI**: Skilled in `DAX`, `Power Query`, `ETL` processes, and data modeling to design interactive dashboards.  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Excel_Logo_2021.svg" width="20" height="20"/> **Excel**: Proficient in pivot tables/charts, lookup functions, and creating advanced formulas for in-depth analysis.  
-
-### 📊 Libraries & Tools  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" width="20" height="20"/> **Pandas**: Hands-on experience in data cleaning and transformation for structured datasets.  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="20" height="20"/> **Matplotlib**: Adept at creating detailed data visualizations and conducting statistical analysis.  
-- <img src="https://seaborn.pydata.org/_static/seaborn-logo-wide.svg" width="20" height="20"/> **Seaborn**: Specializes in crafting advanced visualizations for exploratory data analysis.  
-
----
-
-## 🚀 Featured Projects  
-
-Here are some of the projects I've worked on:  
-
-1. **[Project Title 1](#)**  
-   - ✨ Description of the project, tools used, and outcomes.  
-
-2. **[Project Title 2](#)**  
-   - ✨ Description of the project, tools used, and outcomes.  
-
-3. **[Project Title 3](#)**  
-   - ✨ Description of the project, tools used, and outcomes.  
+### 📊 **Libraries & Tools**
+- **Pandas**: Data Cleaning, Data Transformation
+- **Matplotlib**: Data Visualization, Statistical Analysis
+- **Seaborn**: Advanced Visualization
 
 ---
 
-## 📫 Connect with Me  
+## 🌟 **Featured Projects**  
+### 📊 **Social Media Engagement Analysis**
+- 🔸 Designed a MySQL system to analyze user activity across 13 tables
+- 🔸 Discovered 8% of users contributed 5+ posts; identified top-liked posts
 
-- 💼 [LinkedIn](https://www.linkedin.com)  
-- 📧 Email: your-email@example.com  
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)  
+### 📈 **Vrinda Store Sales Analysis**
+- 🔸 Conducted Excel-based demographic analysis, revealing 64% of orders from female customers
+- 🔸 Identified March as the peak sales month; optimized delivery channel insights
+
+### 🔍 **Myntra Sales Dashboard**
+- 🔸 Built an interactive Power BI dashboard for real-time sales insights
+- 🔸 Analyzed quarterly trends and visualized region-wise performance
+
+### 🍴 **Zomato Data Analysis**
+- 🔸 Analyzed 9,551 restaurants using advanced SQL, uncovering service trends
+- 🔸 Found 90% of restaurants are in India, with delivery options at 25.66%
 
 ---
 
-## 📊 GitHub Stats  
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+## 🌐 **Connect with Me**
+- 📧 Email
+- 💼 [LinkedIn](#)
+- 💻 [GitHub](#)
+- 📄 [Resume](#)
 
 ---
 
-## ✨ Quote  
-*"Transforming raw data into actionable insights and creating opportunities through analysis!"*  
+## ✨ **Motto**  
+"Empowering decisions through data!"
 
-
+## 📌 **Fun Fact**  
+"Despite mastering Python, SQL, and Power BI, I still spend more time crafting README files than signing job offers!" 🚀
