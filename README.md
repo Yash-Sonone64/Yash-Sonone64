@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I’m a data enthusiast driven by the power of num
 ---
 
 ## 🌐 **Connect with Me**
-- 📧 Email
+- 📧 [Email](yashsonone64@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/yash-sonone64)
 - 💻 [GitHub](#)
 - 📄 [Resume](#)
@@ -49,6 +49,5 @@ Welcome to my GitHub profile! I’m a data enthusiast driven by the power of num
 
 ## ✨ **Motto**  
 "Empowering decisions through data!"
-
-## 📌 **Fun Fact**  
+ 📌 **Fun Fact**  
 "Despite mastering Python, SQL, and Power BI, I still spend more time crafting README files than signing job offers!" 🚀
